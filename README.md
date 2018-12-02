@@ -10,5 +10,5 @@ My Manjaro i3wm config files
 ## 3 - mcoelho-scrot.png
   Screenshot in 12/2/2018
 
-## 4 - wallpaper.png
-  Walpapper in .png extension
+## 4 - background.jpg
+  Walpapper in .jpg extension. File saved in ~/.i3
